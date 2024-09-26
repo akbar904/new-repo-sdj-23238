@@ -1,9 +1,9 @@
 name: cat_dog_switcher
-description: A simple Flutter application that switches between displaying 'Cat' with a clock icon and 'Dog' with a person icon when the text is clicked, using the Cubit pattern for state management.
+description: A simple Flutter application that switches between displaying 'Cat' with a clock icon and 'Dog' with a clock icon when the text is clicked, using the Cubit pattern for state management.
 version: 1.0.0
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
